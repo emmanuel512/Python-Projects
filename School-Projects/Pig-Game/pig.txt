@@ -1,1 +1,0 @@
-This a Pig Game written in python. It is played between an AI and one Human player.
